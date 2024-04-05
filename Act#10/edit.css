@@ -1,0 +1,19 @@
+body{
+    background-image: url("Fondo.avif");
+}
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4rem;
+}
+.container{
+    text-align: center;
+}
+canvas{
+    background-color: antiquewhite;
+}
+canvas{
+    outline: rgb(85, 84, 84) 1px solid;
+    background-image: url("RelojFondo.png");
+    background-repeat: no-repeat;
+}
